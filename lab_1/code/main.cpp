@@ -1,3 +1,6 @@
+//  Created by Seryogina Daria 
+//  BMSTU, 2020
+
 #include "alg_laewenstein_.h"
 #include <iostream>
 #include <ctime>
